@@ -16,15 +16,15 @@
 
 <div>  
 <p align="left">  
-  <img width="40%" height="140px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
+  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
 </p>
 <div>  
 <p align='left'>
-  <img width="40%" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
+  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
 </p>
 <div>  
   
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
