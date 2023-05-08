@@ -8,15 +8,15 @@
 <br>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EhoKira&bg_color=0d1117&color=9400D3&line=66CDAA&point=66CDAA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
+<div>
 <p align="center">
   <img src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake.svg">
-</p
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
+</p>
 <div>
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center">  
   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" /> 
