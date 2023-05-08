@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E5C07B&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Abril+Fatface=&size=45&duration=5000&pause=400&color=66CDAA&size=45&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+Kira;I'm+21+years+old+👻;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
