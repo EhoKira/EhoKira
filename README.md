@@ -9,6 +9,9 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EhoKira&bg_color=0d1117&color=9400D3&line=66CDAA&point=66CDAA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+<p align="center">
+  <img src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake.svg">
+</p
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -34,13 +37,6 @@
   <img align="left" alt="SIG-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="SIG-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="left" alt="SIG-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-<p align="center">
-  <img src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake.svg">
-</p
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
   
