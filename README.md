@@ -20,10 +20,10 @@
 
 <div align="left">  
   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
+<!--   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" /> -->
 </div>
-<!-- <div align='left'>
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" /> -->
+<div align='left'>
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
 <div>
 
 
