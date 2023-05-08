@@ -38,7 +38,7 @@
   <img align="center" height "180em" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" width="350"/> -->
   
 <div align="right">
-  ### 📚📍 Studying in this moment:
+  📚📍 Studying in this moment:
 </div>
 <div align="right" style="display: inline_block"><br>  
   <img align="right" alt="SIG-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
