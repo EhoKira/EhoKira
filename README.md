@@ -13,21 +13,20 @@
   <img src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake.svg">
 </p>
 <div>
+
+<div>  
+<p align="left">  
+  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
+</p>
+<div>  
+<p align='left'>
+  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
+</p>
+<div>  
   
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div>  
-<p align="left">  
-  <img width="30%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
-</p>
-<div>  
-<p align='left'>
-  <img width="30%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
-</p>
-<div>
-
 
 <div align="center"> 
 <a href="https://www.instagram.com/ehokira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
