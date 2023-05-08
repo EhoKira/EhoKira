@@ -15,7 +15,7 @@
 <div>
 
 <div>  
-<p align='left'>
+<p align="left">
   <img align="right" height "180em" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" width="350"/>
   <img align='left' width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
 </p>
