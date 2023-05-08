@@ -23,7 +23,7 @@
   
 <p align='left'>
   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
-  ### 📚📍 Studying in this moment:
+<!--   ### 📚📍 Studying in this moment: -->
 <div align="right" style="display: inline_block"><br>
   <img align="right" alt="SIG-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="right" alt="SIG-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
