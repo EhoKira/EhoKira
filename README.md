@@ -17,7 +17,7 @@
 <div>  
 <p align="left">
   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
-  <img align="right" height "180em" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" width="400"/>
+  <img align="right" height "160px" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" width="400"/>
 </p>
 <div>
   
@@ -28,7 +28,7 @@
 <div>  
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=18&margin-h=18" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=16&margin-h=16" />
 </p>
 
 ### 📲 _Connect With me_
