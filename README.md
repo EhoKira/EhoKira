@@ -20,11 +20,11 @@
 
 <div>  
 <p align="left">  
-  <img width="35%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
+  <img width="30%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
 </p>
 <div>  
 <p align='left'>
-  <img width="35%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
+  <img width="30%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
 </p>
 <div>
 
