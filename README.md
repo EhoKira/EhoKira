@@ -42,7 +42,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E06C75&height=120&section=footer"/>
   
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EhoKira}/count.svg" /></p> 
 <br>
 </div>
