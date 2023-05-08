@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/EduardoIzidorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
   
 <div align="right">
-### 📚📍 Studying in this moment:
+### _📚📍 Studying in this moment_
   </div>
 <div align="right" style="display: inline_block"><br>  
   <img align="right" alt="SIG-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
