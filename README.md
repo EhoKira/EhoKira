@@ -39,7 +39,7 @@
   <img align="left" alt="SIG-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="left" alt="SIG-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E5C07B&height=120&section=footer"/>
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
