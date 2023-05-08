@@ -17,18 +17,12 @@
 <div>  
 <p align="left">
   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=onedark" alt="Eduardo Izidorio github stats" />
-  <img align="right" height "180em" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" width="300"/>
+  <img align="right" height "180em" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" width="350"/>
 </p>
 <div>
   
 <p align='left'>
   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" />
-<!--   ### 📚📍 Studying in this moment: -->
-<div align="right" style="display: inline_block"><br>
-  <img align="right" alt="SIG-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="SIG-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="SIG-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="right" alt="SIG-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 <div>  
   
@@ -43,12 +37,12 @@
 <!--  </div>
   <img align="center" height "180em" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" width="350"/> -->
   
-<!-- ### 📚📍 Studying in this moment:
+### 📚📍 Studying in this moment:
 <div align="center" style="display: inline_block"><br>
   <img align="left" alt="SIG-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="left" alt="SIG-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="SIG-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="left" alt="SIG-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+  <img align="left" alt="SIG-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E06C75&height=120&section=footer"/>
   
