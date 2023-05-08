@@ -37,6 +37,7 @@
 <a href="https://www.twitch.tv/ehokira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href ="mailto:cmp.1a.eduardo57izidorio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/EduardoIzidorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://discord.gg/zcneCwuUkD" target="blank"><img src="https://img.shields.io/badge/-Discord-%7289da?style=for-the-badge&logo=discord&logoColor=white"></a>
   
 
 ### _📚📍 Studying in this moment_:
