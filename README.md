@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab=&size=50&duration=5000&pause=400&color=66CDAA&size=50&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo;but+you+can+call+me+Kira;I'm+21+years+old+👻;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Instrument+Serif=&size=50&duration=5000&pause=400&color=66CDAA&size=50&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo;but+you+can+call+me+Kira;I'm+21+years+old+👻;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
 <h2 align="left">🎶 I'm Eduardo Izidorio </h2>
@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Izidorio github stats" /> 
+  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Izidorio github stats" /> 
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&hide_border=true&title_color=66CDAA&text_color=EE82EE&bg_color=0d1117" />
 </div>
 <div>
