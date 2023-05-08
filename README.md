@@ -28,7 +28,7 @@
 <div>  
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=2&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=onedark&no-bg=true&column=3&margin-w=17&margin-h=17" />
 </p>
 
 ### 📲 _Connect With me_
