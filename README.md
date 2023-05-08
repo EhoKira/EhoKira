@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=monokai" alt="Eduardo Izidorio github stats" /> 
+  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=cobalt" alt="Eduardo Izidorio github stats" /> 
   <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&hide_border=true&title_color=66CDAA&text_color=EE82EE&bg_color=0d1117" />
 </div>
 <div>
