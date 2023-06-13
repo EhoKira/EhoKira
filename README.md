@@ -4,7 +4,7 @@
 
 
 <h2 align="left">🎶 I'm Eduardo Izidorio </h2>
-<h3 align="left"> Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/?color=0D3CFF">Universidade Federal de Roraima📍</a></h3>
+<h3 align="left"> Computer Science Student👩🏻‍💻at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EhoKira&bg_color=0d1117&color=9400D3&line=66CDAA&point=66CDAA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
