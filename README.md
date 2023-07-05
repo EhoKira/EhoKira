@@ -31,6 +31,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=tokyonight&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+
+### _My Skills 👨🏽‍💻_ :
+<div align="left" style="display: inline_block"><br>  
+  <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 ### 📲 _Connect With me_
 <div align="left">
 <a href="https://twitter.com/EhoKira/" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
@@ -38,19 +45,12 @@
 <a href="https://www.twitch.tv/ehokira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href ="mailto:cmp.1a.eduardo57izidorio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/EduardoIzidorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://discord.gg/zcneCwuUkD" target="blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a>
-  
-### _My Skills 👨🏽‍💻_ :
-<div align="left" style="display: inline_block"><br>  
-  <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<a href="https://discord.gg/zcneCwuUkD" target="blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a> 
 
   
 ### _📚📍 Studying in this moment_:
 <div align="left" style="display: inline_block"><br>   
   <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-<br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D3CFF&height=120&section=footer"/>
   
