@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D3CFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=50&duration=5000&pause=400&color=62C1EB&size=50&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+as+Kira+😎;I'm+21+years+old+😝;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=50&duration=5000&pause=400&color=62C1EB&size=50&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+as+Kira+😎;I'm+22+years+old+😝;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!)](https://git.io/typing-svg) 
 
 
 <h2 align="left">👑 I'm Eduardo Izidorio </h2>
@@ -33,11 +33,10 @@
 
 
 ### _👨🏽‍💻 My Skills_:
-<div align="left"><br>  
+<div align="left">
   <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<br>
 </div>
 
 ### 📲 _Connect With me_
