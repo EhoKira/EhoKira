@@ -41,7 +41,7 @@
 </p>
 
 ### 📲 _Connect With me_:
-<div align="left"><br>
+<p align="left"><br>
   <a href="https://twitter.com/EhoKira/" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/ehokira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href="https://www.twitch.tv/ehokira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/EduardoIzidorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
   <a href="https://discord.gg/zcneCwuUkD" target="blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a> 
 <br>
-</div>
+</p>
   
 ### _📚📍 Studying in this moment_:
 <div align="left" style="display: inline_block"><br>   
