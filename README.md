@@ -48,7 +48,7 @@
 
   
 ### _📚📍 Studying in this moment_:
-<div align="left" style="display: inline_block"><br>  
+<div align="left"> 
   <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   
   
