@@ -54,6 +54,7 @@
 ### _📚📍 Studying in this moment_:
 <div align="left" style="display: inline_block"><br>   
   <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="left" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D3CFF&height=120&section=footer"/>
   
