@@ -31,6 +31,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=tokyonight&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+### _👨🏽‍💻 My Skills_:
+<p align="right"><br>
+  <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<br>
+</p>
+
 ### 📲 _Connect With me_:
 <p align="left"><br>
   <a href="https://twitter.com/EhoKira/" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
@@ -46,14 +54,6 @@
 <p align="left" style="display: inline_block"><br>   
   <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="left" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<br>
-</p>
-
-### _👨🏽‍💻 My Skills_:
-<p align="right"><br>
-  <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <br>
 </p>
 
