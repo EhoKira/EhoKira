@@ -50,7 +50,7 @@
 </p>
 
 ### _👨🏽‍💻 My Skills_:
-<p align="right" style="display: inline_block"><br>
+<p align="right"><br>
   <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
