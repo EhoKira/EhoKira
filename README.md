@@ -22,7 +22,7 @@
 
 ### 📊 Status:
 <div>  
-  <img height="160px" align="right" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
+  <img height="160px" align="right" src="https://cdn.discordapp.com/attachments/701952071934541824/958167029230239754/unknown.png?ex=65498a95&is=65371595&hm=122acdd677a4df9abf7ebb8e6dcd9b89dcc74d2f815b6f4691e272cca8f41c5e&" />
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
 <div>
