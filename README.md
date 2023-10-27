@@ -31,6 +31,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=tokyonight&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+---
+
 ### 👨🏽‍💻📌 _My Skills_:
 <p align="left"><br>
   <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -49,6 +51,8 @@
   <img align="left" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <br>
 </p>
+
+---
 
 ### 📲 _Connect With me_:
 <p align="left" style="display_block"><br>
