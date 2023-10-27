@@ -15,7 +15,7 @@
 <div>
 
 <p align="center">
-  <img align="center" width="160" height="180" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" style="border-radius: 200px;"/>
+  <img align="center" width="200" height="180" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" style="border-radius: 50px;"/>
 </p>
 
 ### 📊 Status:
