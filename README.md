@@ -27,7 +27,7 @@
   
 <p align='left'>
 <!--   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" /> -->
-  <img width="49%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 <div>  
   
