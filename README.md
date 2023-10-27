@@ -20,13 +20,13 @@
 <div> -->
 
 <p align="center">
-  <img align="center" width="200" height="180" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" style="border-radius: 50px;"/>
+  <img align="center" width="200" height="180" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
 </p>
 
 ### 📊 Status:
 <div>  
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
 <div>
   
 <!-- <p align="center">
