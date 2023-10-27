@@ -19,10 +19,8 @@
 </p>
 
 <div>  
-<p align="left">
   <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 <div>
   
 <!-- <p align="center">
