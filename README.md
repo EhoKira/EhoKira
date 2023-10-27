@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D3CFF&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=50&duration=5000&pause=400&color=62C1EB&size=50&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+as+Kira+😎;I'm+22+years+old+😝;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!)](https://git.io/typing-svg) 
 
 
@@ -52,8 +50,7 @@
 <br>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D3CFF&height=120&section=footer"/>
-  
+---
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EhoKira}/count.svg" /></p> 
