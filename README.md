@@ -19,9 +19,9 @@
 </p>
 <div> -->
 
-<p align="center">
+<!--<p align="center">
   <img align="center" width="200" height="180" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
-</p>
+</p>-->
 
 ### 📊 Status:
 <div>  
