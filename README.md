@@ -25,12 +25,6 @@
 </p>
 <div>
   
-<p align='left'>
-<!--   <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&show_icons=true&theme=onedark" /> -->
-  <img width="50%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-<div>  
-  
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=tokyonight&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> -->
