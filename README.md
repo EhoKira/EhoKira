@@ -42,6 +42,13 @@
 <p><br>
 <br>  
 </p>
+  
+### _📚📍 Studying in this moment_:
+<p align="left" style="display: inline_block"><br>   
+  <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="left" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+<br>
+</p>
 
 ### 📲 _Connect With me_:
 <p align="left" style="display_block"><br>
@@ -51,13 +58,6 @@
   <a href ="mailto:cmp.1a.eduardo57izidorio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/EduardoIzidorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
   <a href="https://discord.gg/zcneCwuUkD" target="blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a> 
-<br>
-</p>
-  
-### _📚📍 Studying in this moment_:
-<p align="left" style="display: inline_block"><br>   
-  <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="left" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <br>
 </p>
 
