@@ -10,11 +10,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>-->
 
-<!--<div>
-<p align="center">
   <img src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake.svg">
-</p>
-<div> -->
 
 <!--<p align="center">
   <img align="center" width="200" height="180" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
