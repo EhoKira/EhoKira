@@ -25,7 +25,7 @@
 
 ### 📊 Status:
 <div>  
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
 <div>
   
