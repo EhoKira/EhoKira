@@ -7,12 +7,17 @@
 <h3 align="left"> Computer Science Student 👨🏽‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EhoKira&bg_color=0d1117&color=9400D3&line=66CDAA&point=66CDAA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!--<div>
 <p align="center">
   <img src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake.svg">
 </p>
-<div>
+<div> -->
 
 <p align="center">
   <img align="center" width="200" height="180" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" style="border-radius: 50px;"/>
