@@ -34,21 +34,6 @@
 
 ---
 
-### 👨🏽‍💻📌 _My Skills_:
-<p align="left"><br>
-  <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<br>
-</p>
-  
-### _📚📍 Studying in this moment_:
-<p align="left" style="display: inline_block"><br>   
-  <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="left" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<br>
-</p>
-
 ---
 
 ### 📲 _Connect With me_:
@@ -69,3 +54,27 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EhoKira}/count.svg" /></p> 
 <br>
 </div>
+
+
+
+
+
+
+
+
+
+
+<!--### 👨🏽‍💻📌 _My Skills_:
+<p align="left"><br>
+  <img align="left" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="left" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<br>
+</p>
+  
+### _📚📍 Studying in this moment_:
+<p align="left" style="display: inline_block"><br>   
+  <img align="left" alt="HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="left" alt="CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+<br>
+</p> -->
