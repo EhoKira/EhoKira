@@ -41,10 +41,6 @@
   <img align="left" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <br>
 </p>
-
-<p><br>
-<br>  
-</p>
   
 ### _📚📍 Studying in this moment_:
 <p align="left" style="display: inline_block"><br>   
