@@ -4,11 +4,11 @@
 <h3 align="left"> Computer Science Student 👨🏽‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+</picture>-->
 
 <!--<div>
 <p align="center">
