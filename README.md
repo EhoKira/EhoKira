@@ -34,7 +34,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,blender,c,github,cs,vscode,cpp,git,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,blender,c,github,vscode,linkedin)](https://skillicons.dev)
 
 ---
 
