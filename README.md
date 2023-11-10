@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=49&duration=5000&pause=400&color=62C1EB&size=49&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+as+Kira+😎;I'm+22+years+old+😝;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=50&duration=5000&pause=400&color=62C1EB&size=40&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+as+Kira+😎;I'm+22+years+old+😝;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!)](https://git.io/typing-svg) 
 
 <h2 align="left">👑 I'm Eduardo Izidorio </h2>
 <h3 align="left"> Computer Science Student 👨🏽‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
