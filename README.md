@@ -18,9 +18,9 @@
 
 ### 📊 Status:
 <div>  
-  <img height="350px" align="right" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
+  <img height="340px" align="right" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
 <div> 
   
 <!-- <p align="center">
