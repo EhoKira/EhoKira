@@ -17,17 +17,11 @@
 </p>-->
 
 ### 📊 Status:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EhoKira&layout=compact&langs_count=8&card_width=320" />
-</a> 
-<!--<div>  
+<div>  
   <img height="340px" align="right" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
-<div> -->
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=tokyonight" alt="Eduardo Izidorio github stats" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=tokyonight"/>
+<div> 
   
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EhoKira&show_icons=true&theme=tokyonight&no-bg=true&column=3&margin-w=15&margin-h=15" />
