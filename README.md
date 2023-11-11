@@ -19,8 +19,8 @@
 ### 📊 Status:
 <div>  
   <img height="330px" align="right" src="https://cdn.discordapp.com/attachments/701952071934541824/1104786226831179916/unknown-removebg-preview.png" />
-  <img height="185" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=aura" alt="Eduardo Izidorio github stats" />
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=aura"/>
+  <img height="185" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=ocean_dark" alt="Eduardo Izidorio github stats" />
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=ocean_dark"/>
 <div> 
   
 <!-- <p align="center">
