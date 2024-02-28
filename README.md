@@ -18,7 +18,7 @@
 
 ### 📊 Status:
 <div>  
-  <img height="330px" align="right" src="![Kira](https://github.com/EhoKira/EhoKira/assets/99437216/c410485a-13cb-448d-a60b-346dd3ab8bda)" />
+  <img height="330px" align="right" src="https://github.com/EhoKira/EhoKira/assets/99437216/c410485a-13cb-448d-a60b-346dd3ab8bda" />
   <img height="185" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=ocean_dark" alt="Eduardo Izidorio github stats" />
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=ocean_dark"/>
 <div> 
