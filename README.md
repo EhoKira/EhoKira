@@ -20,7 +20,7 @@
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin&perline=4" />
   </a>
