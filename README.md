@@ -22,7 +22,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin&perline=3" />
   </a>
 </p>
 <!--[![My Skills](https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin)](https://skillicons.dev) -->
