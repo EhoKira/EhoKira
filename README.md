@@ -1,17 +1,16 @@
 <h2 align="left">👑 I'm Eduardo Izidorio </h2>
-
+---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=50&duration=5000&pause=400&color=9370DB&size=40&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+as+Kira+😎;I'm+23+years+old+😝;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!)](https://git.io/typing-svg) 
-
+---
 <h3 align="left"> Computer Science Student 👨🏽‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
-
+---
 ### 📊 Status:
 <div>  
   <img height="330px" align="right" src="https://github.com/EhoKira/EhoKira/assets/99437216/c410485a-13cb-448d-a60b-346dd3ab8bda" />
   <img height="185" align="center" src="https://github-readme-stats.vercel.app/api?username=EhoKira&show_icons=true&theme=ocean_dark" alt="Eduardo Izidorio github stats" />
   <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhoKira&layout=compact&langs_count=7&theme=ocean_dark"/>
 <div> 
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
@@ -20,7 +19,6 @@
   </a>
 </p>
 <!--[![My Skills](https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin)](https://skillicons.dev) -->
-
 ---
 
 ### 📲 _Connect With me_:
