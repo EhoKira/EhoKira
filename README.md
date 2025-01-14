@@ -19,7 +19,6 @@
   </a>
 </p>
 <!--[![My Skills](https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin)](https://skillicons.dev) -->
----
 
 ### 📲 _Connect With me_:
 <p align="center" style="display_block"><br>
