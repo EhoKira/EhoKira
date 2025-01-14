@@ -5,12 +5,6 @@
 <h3 align="left"> Computer Science Student 👨🏽‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 ### 📊 Status:
 <div>  
   <img height="330px" align="right" src="https://github.com/EhoKira/EhoKira/assets/99437216/c410485a-13cb-448d-a60b-346dd3ab8bda" />
@@ -39,7 +33,12 @@
   <!-- <a href="https://discord.gg/zcneCwuUkD" target="blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"></a> --> 
 <br>
 </p>
-
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake-dark.svg">
+</picture> 
 ---
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
