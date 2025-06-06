@@ -1,11 +1,11 @@
-<h2 align="left">👑 I'm Eduardo Izidorio </h2>
+<!-- Banner -->
+<img src="Banner GIthub.png" alt="Logo" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=50&duration=5000&pause=400&color=9370DB&size=40&center=true&vCenter=true&width=1500&lines=Hello,+I'm+Eduardo+Izidorio;But+you+can+call+me+as+Kira+😎;I'm+23+years+old+😝;I+Love+Music+🎸+🎙️+🎶;I+Love+Sports+🏐;I+Love+Games+🎮+💜;Be+Welcome!)](https://git.io/typing-svg) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Satisfy=&size=50&duration=5000&pause=400&color=9370DB&size=40&center=true&vCenter=true&width=1500&lines=Eduardo+Izidorio;Be+Welcome!+:%29" alt="Typing SVG">
+</a>
 
 ---
-
-<h3 align="left"> Computer Science Student 👨🏽‍💻 at <a href="https://ufrr.br/">Universidade Federal de Roraima📍</a></h3>
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EhoKira/EhoKira/blob/output/github-contribution-grid-snake-dark.svg">
