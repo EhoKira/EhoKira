@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin&perline=12" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,c,react,nodejs,cpp,blender,arduino,git,github,vscode,notion,linkedin)](https://skillicons.dev) -->
 
 
 <picture>
